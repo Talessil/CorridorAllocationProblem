@@ -1,2 +1,2 @@
 # CorridorAllocationProblem
-Solution for the corridor allocation problem using operation research.
+Solution for the corridor allocation problem using operational research.
