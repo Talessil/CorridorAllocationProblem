@@ -1,0 +1,14 @@
+Na execução do programa, alguns parâmetros serão pedidos.
+1- número de salas - default é 8
+2- quantidade de vezes que o construtivo vai rodar (quantas instâncias iniciais ele vai gerar) - default é 50
+
+-----------------------------------------------------------------------------
+Para a execução do algoritmo, é necessário que 2 arquivos .txt 
+estejam na mesma pasta. Esses arquivos são "tamanho.txt" e "trafego.txt".
+Arquivos existentes das pastas (intancias/tamanho e instancias/trafego) podem ser utilizados,
+sendo que os arquivos precisam ser correspondentes e é necessário que sejam
+renomeados para "tamanho.txt" e "trafego,txt", respectivamente. 
+
+-----------------------------------------------------------------------------
+
+Por default, um arquivo conténdo 8 salas já está setado.
